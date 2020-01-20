@@ -1,0 +1,6 @@
+gi은
+add
+commit
+push
+
+를 기억합시다.
